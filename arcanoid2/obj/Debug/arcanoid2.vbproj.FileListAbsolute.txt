@@ -1,0 +1,12 @@
+c:\users\nikiforos\documents\visual studio 2013\Projects\arcanoid2\arcanoid2\bin\Debug\arcanoid2.exe.config
+c:\users\nikiforos\documents\visual studio 2013\Projects\arcanoid2\arcanoid2\bin\Debug\arcanoid2.exe
+c:\users\nikiforos\documents\visual studio 2013\Projects\arcanoid2\arcanoid2\bin\Debug\arcanoid2.pdb
+c:\users\nikiforos\documents\visual studio 2013\Projects\arcanoid2\arcanoid2\bin\Debug\arcanoid2.xml
+c:\users\nikiforos\documents\visual studio 2013\Projects\arcanoid2\arcanoid2\bin\Debug\MovingSprite1.dll
+c:\users\nikiforos\documents\visual studio 2013\Projects\arcanoid2\arcanoid2\obj\Debug\arcanoid2.vbprojResolveAssemblyReference.cache
+c:\users\nikiforos\documents\visual studio 2013\Projects\arcanoid2\arcanoid2\obj\Debug\arcanoid2.Form1.resources
+c:\users\nikiforos\documents\visual studio 2013\Projects\arcanoid2\arcanoid2\obj\Debug\arcanoid2.Resources.resources
+c:\users\nikiforos\documents\visual studio 2013\Projects\arcanoid2\arcanoid2\obj\Debug\arcanoid2.vbproj.GenerateResource.Cache
+c:\users\nikiforos\documents\visual studio 2013\Projects\arcanoid2\arcanoid2\obj\Debug\arcanoid2.exe
+c:\users\nikiforos\documents\visual studio 2013\Projects\arcanoid2\arcanoid2\obj\Debug\arcanoid2.xml
+c:\users\nikiforos\documents\visual studio 2013\Projects\arcanoid2\arcanoid2\obj\Debug\arcanoid2.pdb
